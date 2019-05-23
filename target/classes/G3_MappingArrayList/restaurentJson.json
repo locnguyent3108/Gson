@@ -1,0 +1,21 @@
+{
+  "restaurantName": "abc",
+  "menu":
+    [
+      {"name": "lowCost",
+      "price": 120},
+
+      {"name": "highCost",
+      "price": 1000
+      },
+
+      {"name": "averageCost",
+      "price": 2000
+      },
+
+      {"name": "somethingSpecial",
+      "price": 500
+      }
+    ]
+
+}

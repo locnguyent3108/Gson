@@ -1,0 +1,22 @@
+{
+  "name": "Nha hang ga",
+  "location": {
+    "name": "Cua hang A",
+    "address": {
+      "city": "hamburge",
+      "street": "ABC"
+    }
+  },
+
+  "cooker": {
+    "age": 12,
+    "name": "bede Thai",
+    "salary": 1200
+  },
+
+  "waiter": {
+    "name": "Dada",
+    "age": 21,
+    "salary": 35000
+  }
+}

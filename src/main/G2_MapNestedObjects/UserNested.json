@@ -1,0 +1,11 @@
+{
+  "age": 12,
+  "email": "locnt@gmail.com",
+  "name": "locnt",
+
+  "userAddress": {
+    "city": "hcm",
+    "houseAddress": "103 chu van an",
+    "street": "NDC"
+  }
+}
