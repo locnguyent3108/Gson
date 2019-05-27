@@ -1,0 +1,17 @@
+______________________________________________________________________________________________________________
+TỪ KHOÁ THIS VÀ SUPER
+. Cách sử dụng từ khoá This:
+    1. Tham chiếu tới biến instance tại lớp hiện tại
+    2. Gọi phương thức của lớp hiện tại
+    3. Gọi constructor ở lớp hiện tại
+    4. Trả về instance của lớp hiện tại
+    5. được truyền vào như 1 tham số trong constructor
+    6. Được truyền vào như 1 tham số trong method -> Cách này hữu ích khi cần tái sử dụng object ở nhiều phương thức khác nhau,
+
+. Phuong thuc this() co the dung de goi constructor cua lop hien tai. ( dung trong truong hop co qua nhiu constructor
+trong class)
+
+. Cach su dung tu khoa Super:
+    1. goi truc tiep ham dung cua lop cha gan nhat (constructor)
+    2. goi truc tiep thuoc tinh cua lop cha gan nhat (field)
+    3. goi truc tiep phuong thuc cua lop cha gan nhat (method)

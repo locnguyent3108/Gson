@@ -2,7 +2,9 @@ package G3_MappingArrayList;
 
 
 import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
 
+import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -33,6 +35,9 @@ public class main {
         //Map vào Array
         Restaurant.Menu[] newFoodArray =  gson.fromJson(menuJson,Restaurant.Menu[].class);
 
-        //
+        //Map vao List
+        Type menuList = new TypeToken<ArrayList<Restaurant.Menu>>(){}.getType();
+
+        List<Restaurant.Menu> menuA = gson.fromJson(menuJson,menuList);
     }
 }

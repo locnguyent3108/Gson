@@ -1,0 +1,18 @@
+kien thuc co ban
+1. tinh dong goi (encapsulation)
+2. tinh da hinh (polymorphism)
+3. tinh ke thua (inheritance)
+4. tinh truu tuong (abstraction)
+
+______________________________________________________________________________________________________________
+. Object là một thực thể có trạng thái và hành vi. Nó có thể mang tính vật lý hoặc logic.
+. su dung "this" de truy cap thuoc tinh  trong class. neu ko su dung "this" thi chi truy cap vao tham so
+cua ham khoi tao
+    _ từ khoá this để tham chiếu tới đối tượng ở lớp hiện tại
+    _ từ khoá super để tham chiếu tới đối tượng ở lớp cha gần nhất.
+
+. Constructor dùng để khởi tạo đối tương ( ko phải khai báo nha)
+  _ Được gọi lên lúc mà instance dc khởi tạo. Chứ ko phải lúc bắt đầu chương trình.
+  _ Cung cấp các thông tin mà biến đó thật sự cần.
+  _
+

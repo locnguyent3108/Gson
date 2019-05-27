@@ -1,0 +1,40 @@
+1. This noted create to remember convention code:
+    . Whitespace
+        1. ko co whitespace nào dc tồn tại trong string hoặc character.
+        2. Ko dùng tab để thụt đầu dòng
+        3. khi khai báo hay biến thì đều có khoảng cách e.g String unit = "abc";
+
+    . Import statements
+        1. DO NOT USE WILCARD IMPORTS
+        2. No line-wrapping
+         2.1 import statements are not line-wrapped
+        3. Orrdering and spacing
+         3.1 All static import in a single block.
+         3.2 All non-static imports in a single block
+
+        noted: nếu có cả 2 thì phải cách nhau 1 dòng để tách bạch 2 khối.
+
+
+    . Đặt tên class, interface, abstract class
+        1. Hạn chế viết tắt
+        2. dùng cụm danh từ hoặc danh từ
+
+    . Đặt tên Method
+        1. sử dụng camel case để đặt tên phương thức.
+        2. tên method thể hiện chức năng của phương thức đó
+        3. tránh đặt tên gây khó hiểu
+        4. ko dc đặt tên phương thức bằng số vd: tinhDiem1, tinhDiem2
+
+    . Biến
+        1. sử dụng camel case để đặt tên phương thức
+        2. ko viết gọn, ko dùng single characters.
+        3. biến static, enum phải đc viết hoa và phân cách bằng dấu gạch dưới
+        4. biến final đặt tên format giố static và enum
+        5. if, while, for ko nên lồng nhau hơn 3 bậc
+
+    . Viết 1 phương thức hiệu quả
+        1. viết code reusable ( DRY concept)
+        2. ở 1 code có qá nhiều complex method -> tách ra thành nhiều modules nhỏ.
+        3. mỗi phương thức chỉ có 1 chức năng chính
+        4. 1 method có khoảng từ 50 - 150 dòng code là hợp lý
+        5. tránh đặt tên method trùng nhau

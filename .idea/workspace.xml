@@ -2,9 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9aa248b2-eb8c-45f2-9371-d3b34f07d251" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/JavaBasic/ConventionGuide" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/JavaBasic/GPCoder_OverView_OOP/OverviewOOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/JavaBasic/GPCoder_OverView_OOP/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/JavaBasic/GPCoder_OverView_OOP/overview.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/Super/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/Super/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/This/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/This/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/This/UsingThisExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/This/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/ThisAndSupper" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/G1_GettingStarted/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/G1_GettingStarted/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/G2_MapNestedObjects/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/G2_MapNestedObjects/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/G3_MappingArrayList/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/G3_MappingArrayList/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/G2_MapNestedObjects/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/G2_MapNestedObjects/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/G3_MappingArrayList/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/G3_MappingArrayList/main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,116 +31,127 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.49049774">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/Restaurant/main.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="702">
-                  <caret line="39" column="1" selection-start-line="38" selection-end-line="39" selection-end-column="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/G2_MapNestedObjects/main.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="252">
-                  <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/G3_MappingArrayList/main.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="257">
-                  <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#337#354#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/G1_GettingStarted/main.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="400">
-                  <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="75" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <splitter split-orientation="vertical" split-proportion="0.42056075">
-          <split-first>
-            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-              <file pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/src/main/Restaurant/owner.json">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="126">
-                      <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-                      <folding>
-                        <element signature="n#!!block;n#cooker#0;n#!!top" />
-                        <element signature="n#!!block;n#waiter#0;n#!!top" />
-                      </folding>
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/src/main/G3_MappingArrayList/restaurentJson.json">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="86">
-                      <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/src/main/G1_GettingStarted/userSimple.json">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="72">
-                      <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-first>
-          <split-second>
-            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-              <file pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/src/main/Restaurant/Owner.java">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="117">
-                      <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/src/main/G3_MappingArrayList/Restaurant.java">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="90">
-                      <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-second>
-        </splitter>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/GPCoder_OverView_OOP/overview.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/ThisAndSupper">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/This/Helper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/This/Example2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#426#427#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#560#561#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/This/UsingThisExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/Super/Parent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+              <folding>
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/Super/Child.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+              <folding>
+                <element signature="e#139#140#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/This/main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/GPCoder_OverView_OOP/OverviewOOP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="e#454#455#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/GPCoder_OverView_OOP/main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="6" selection-start-line="6" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -136,21 +160,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/JavaBasic</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/codeExample/draft/UserSimple.json" />
-        <option value="$PROJECT_DIR$/src/main/java/codeExample/draft/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/codeExample/draft/App.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MappingOfNestedObjects/UserAddres.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MappingOfNestedObjects/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MappingOfNestedObjects/userNest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MappingOfNestedObjects/UserNested.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MappingOfNestedObjects/userNested.json" />
-        <option value="$PROJECT_DIR$/src/main/java/MappingOfNestedObjects/UserAddress.java" />
         <option value="$PROJECT_DIR$/src/main/java/MappingOfNestedObjects/Restaurant.java" />
         <option value="$PROJECT_DIR$/src/main/java/MappingOfNestedObjects/main.java" />
         <option value="$PROJECT_DIR$/src/main/java/MappingNestedObjects/UserNested.json" />
@@ -171,22 +191,43 @@
         <option value="$PROJECT_DIR$/src/main/MapNestedObjects/UserAddress.java" />
         <option value="$PROJECT_DIR$/src/main/MapNestedObjects/UserNested.java" />
         <option value="$PROJECT_DIR$/src/main/MapNestedObjects/main.java" />
-        <option value="$PROJECT_DIR$/src/main/G2_MapNestedObjects/main.java" />
         <option value="$PROJECT_DIR$/src/main/Restaurant/owner.json" />
         <option value="$PROJECT_DIR$/src/main/Restaurant/Owner.java" />
         <option value="$PROJECT_DIR$/src/main/Restaurant/main.java" />
         <option value="$PROJECT_DIR$/src/main/G3_MappingArrayList/restaurentJson.json" />
         <option value="$PROJECT_DIR$/src/main/G3_MappingArrayList/Restaurant.java" />
-        <option value="$PROJECT_DIR$/src/main/G3_MappingArrayList/main.java" />
         <option value="$PROJECT_DIR$/src/main/G1_GettingStarted/main.java" />
+        <option value="$PROJECT_DIR$/src/main/G2_MapNestedObjects/main.java" />
+        <option value="$PROJECT_DIR$/src/main/G3_MappingArrayList/main.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/B40_Inheritance.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/Inheritance/B40_Inheritance.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/Inheritance/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/Inheritance/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/Inheritance/main.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/Inheritance/is_A_has_A/DiaChi.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/Inheritance/is_A_has_A/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/Inheritance/is_A_has_A/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/Inheritance/is_A_has_A/main.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/RoadMap" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/ConventionGuide" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/OOP_Study/OverviewOOP.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/OOP_Study/main.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/OOP_Study/overview.txt" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/GPCoder_OverView_OOP/overview.txt" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/UsingThisExample.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/main.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/Helper.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/Example2.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/ThisAndSupper" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/This/main.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/Super/Parent.java" />
+        <option value="$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/Super/Child.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="46" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="842" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -194,7 +235,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,24 +253,11 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="draft" type="b2602c69:ProjectViewProjectNode" />
-              <item name="draft" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="G1_GettingStarted" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="draft" type="b2602c69:ProjectViewProjectNode" />
-              <item name="draft" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="G3_MappingArrayList" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -242,7 +269,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/MappingOfNestedObjects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -270,13 +297,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.main (2)">
-    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MappingArraysandLists.main" />
+  <component name="RunManager" selected="Application.Child">
+    <configuration name="Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasic.ThisAndSuper.Super.Child" />
       <module name="draft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MappingArraysandLists.*" />
+          <option name="PATTERN" value="JavaBasic.ThisAndSuper.Super.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,12 +311,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="G1_GettingStarted.main" />
+    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasic.ThisAndSuper.This.Example2" />
       <module name="draft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="G1_GettingStarted.*" />
+          <option name="PATTERN" value="JavaBasic.ThisAndSuper.This.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,25 +324,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Restaurant.main" />
+    <configuration name="main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasic.Inheritance.is_A_has_A.main" />
       <module name="draft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Restaurant.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="G3_MappingArrayList.main" />
-      <module name="draft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="G3_MappingArrayList.*" />
+          <option name="PATTERN" value="JavaBasic.Inheritance.is_A_has_A.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,11 +338,11 @@
       </method>
     </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="G2_MapNestedObjects.main" />
+      <option name="MAIN_CLASS_NAME" value="JavaBasic.GPCoder_OverView_OOP.main" />
       <module name="draft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="G2_MapNestedObjects.*" />
+          <option name="PATTERN" value="JavaBasic.GPCoder_OverView_OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -336,12 +350,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="simpleCall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gson_practice.simpleCall" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasic.ThisAndSuper.This.main" />
       <module name="draft" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Gson_practice.*" />
+          <option name="PATTERN" value="JavaBasic.ThisAndSuper.This.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,11 +365,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main (2)" />
-        <item itemvalue="Application.main (4)" />
-        <item itemvalue="Application.main (3)" />
-        <item itemvalue="Application.simpleCall" />
+        <item itemvalue="Application.Child" />
+        <item itemvalue="Application.Example2" />
         <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -377,18 +391,24 @@
       <workItem from="1558516042268" duration="68000" />
       <workItem from="1558516157633" duration="2666000" />
       <workItem from="1558520472203" duration="4056000" />
-      <workItem from="1558584083229" duration="4887000" />
+      <workItem from="1558584083229" duration="6963000" />
+      <workItem from="1558677014009" duration="299000" />
+      <workItem from="1558688683741" duration="44000" />
+      <workItem from="1558758375278" duration="215000" />
+      <workItem from="1558758615710" duration="624000" />
+      <workItem from="1558778598452" duration="2751000" />
+      <workItem from="1558850715985" duration="10668000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35201000" />
+    <option name="totallyTimeSpent" value="51878000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="46" y="23" width="1440" height="842" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49933246" visible="true" weight="0.20845272" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49933246" visible="true" weight="0.2256447" />
       <window_info id="Structure" order="1" sideWeight="0.5006676" side_tool="true" weight="0.18839541" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -397,8 +417,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32977304" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.21361816" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3293124" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.20989144" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -407,7 +427,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32977304" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32810616" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -441,22 +461,20 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/G2_MapNestedObjects/main.java</url>
-          <line>27</line>
+          <line>31</line>
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/G3_MappingArrayList/main.java</url>
-          <line>36</line>
+          <url>file://$PROJECT_DIR$/src/main/JavaBasic/Inheritance/is_A_has_A/main.java</url>
+          <line>11</line>
           <properties />
-          <option name="timeStamp" value="19" />
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/MappingOfNestedObjects/UserAddres.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/MappingOfNestedObjects/userNested.json" />
     <entry file="file://$PROJECT_DIR$/src/main/java/codeExample/draft/UserSimple.json" />
     <entry file="file://$PROJECT_DIR$/src/main/java/codeExample/draft/Person.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/MappingOfNestedObjects/UserAddress.java" />
@@ -483,13 +501,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Restaurant/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="39" column="1" selection-start-line="38" selection-end-line="39" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/G2_MapNestedObjects/UserNested.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -511,17 +522,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/G2_MapNestedObjects/main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/Restaurant/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        <state relative-caret-position="702">
+          <caret line="39" column="1" selection-start-line="38" selection-end-line="39" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/G3_MappingArrayList/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="26" column="31" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Restaurant/owner.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
           <folding>
             <element signature="n#!!block;n#cooker#0;n#!!top" />
             <element signature="n#!!block;n#waiter#0;n#!!top" />
@@ -529,51 +550,164 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/G3_MappingArrayList/restaurentJson.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Restaurant/Owner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
+        <state relative-caret-position="666">
           <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/G3_MappingArrayList/Restaurant.java">
+    <entry file="file://$PROJECT_DIR$/src/main/G2_MapNestedObjects/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/G3_MappingArrayList/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        <state relative-caret-position="612">
+          <caret line="38" column="77" selection-start-line="38" selection-start-column="77" selection-end-line="38" selection-end-column="77" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#337#354#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/G3_MappingArrayList/restaurentJson.json">
+    <entry file="file://$PROJECT_DIR$/src/main/G1_GettingStarted/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        <state relative-caret-position="540">
+          <caret line="35" selection-start-line="25" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/G1_GettingStarted/userSimple.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/G1_GettingStarted/main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/G3_MappingArrayList/Restaurant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="75" />
+        <state relative-caret-position="108">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/Inheritance/B40_Inheritance.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/Inheritance/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/Inheritance/is_A_has_A/Employee.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/Inheritance/Employee.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/Inheritance/is_A_has_A/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/Inheritance/is_A_has_A/DiaChi.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/Inheritance/main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/Inheritance/is_A_has_A/main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/ConventionGuide">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/GPCoder_OverView_OOP/OverviewOOP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/GPCoder_OverView_OOP/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" selection-start-line="6" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/GPCoder_OverView_OOP/overview.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/ThisAndSupper">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/This/Example2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/This/Helper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/This/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/This/UsingThisExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/Super/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/JavaBasic/ThisAndSuper/Super/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
           </folding>
         </state>
       </provider>
